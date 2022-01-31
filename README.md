@@ -1,1 +1,3 @@
-# FintechProject1
+# Fintech Project 1
+""" This file is aimed for...
+"""
