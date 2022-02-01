@@ -1,2 +1,14 @@
 # Fintech Project 1
-This file is aimed for...
+## Description
+
+## Usage
+
+## Support
+
+## Roadmap
+
+## Contributing
+
+## Authors and acknowledgment
+
++
