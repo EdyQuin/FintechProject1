@@ -9,7 +9,7 @@
  + Eduardo 'Edy' Quin.
 
 ## Usage
-+ Thus, the analysis in Project 1, presented in visualizations, is aimed to have a direct financial impact and theoretically will be used in making impactful financial decisions by interested parties. 
++ Thus, the analysis in Project 1, presented in visualizations, is aimed to have a direct financial impact and theoretically will be used in making impactful financial decisions by interested parties. The concept is to analyze the relevant data to come up with a measure for general food choices and then specific foods/dishes choices and then visualizing the data with different grpahs and plots. In theory, the analysis will assist decision makers with the following financial activities: preparing budgets (advertising, marketing, ingredients, supplies, etc.); as market analysis to launch a food service, restaurant, or new menu items etc.    
 
 ## Support
 + UM BC staff. 
