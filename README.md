@@ -17,7 +17,16 @@
 + https://pythonguides.com/
 + https://matplotlib.org/stable/index.html
 
-## Roadmap
-+ 
+## Tools
++ panel
++ plotly.express
++ pandas
++ hvplot.pandas
++ numpy
++ os
++ pathlib
++ dotenv
++ seaborn
++ https://trends.google.com/trends/?geo=US
 
 
