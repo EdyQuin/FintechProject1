@@ -42,5 +42,12 @@
 + http://localhost:8801/files/Visualizations/Food%20Catergory%20in%20Orlando.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
 + http://localhost:8801/files/Visualizations/Interest%20Over%20Time%20Orlando.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
 + http://localhost:8801/files/Visualizations/All%20Regions%20Average%20Weekly%20Searches%205%20Years.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
++ http://localhost:8801/files/Visualizations/2017_plot.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
++ http://localhost:8801/files/Visualizations/2018_plot.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
++ http://localhost:8801/files/Visualizations/2019_plot.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
++ http://localhost:8801/files/Visualizations/2020_plot.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
++ http://localhost:8801/files/Visualizations/2021_plot.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
++ http://localhost:8801/files/Visualizations/2022_plot.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
+
 
 
