@@ -30,6 +30,9 @@
 + https://trends.google.com/trends/?geo=US
 
 ## Visualization Images
++ http://localhost:8801/files/Visualizations/Miami%20Region%20Side%20by%20Side.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
++ http://localhost:8801/files/Visualizations/Orlando%20Region%20Side%20by%20Side.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
++ http://localhost:8801/files/Visualizations/Tampa%20Region%20Side%20by%20Side.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
 + http://localhost:8801/files/Visualizations/All%20Regions%20Average%20Weekly%20Searches%205%20Years.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
 + http://localhost:8801/files/Visualizations/Max%20and%20Min%20Searches%20Per%20Week%20All%20Regions.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
 + http://localhost:8801/files/Visualizations/Searches%20Per%20Week%20and%20Correlation%20All%20Regions.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
@@ -48,6 +51,7 @@
 + http://localhost:8801/files/Visualizations/2020_plot.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
 + http://localhost:8801/files/Visualizations/2021_plot.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
 + http://localhost:8801/files/Visualizations/2022_plot.png?_xsrf=2%7C23bcc466%7Cecd90708c33499ac92add3c053440b19%7C1644159479
+
 
 
 
