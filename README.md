@@ -30,5 +30,17 @@
 + https://trends.google.com/trends/?geo=US
 
 ## Visualization Images
++ http://localhost:8892/lab/tree/All%20Regions%20Average%20Weekly%20Searches%205%20Years.png
++ http://localhost:8892/lab/tree/Max%20and%20Min%20Searches%20Per%20Week%20All%20Regions.png
++ http://localhost:8892/lab/tree/Searches%20Per%20Week%20and%20Correlation%20All%20Regions.png
++ http://localhost:8892/lab/tree/Specific%20Foods%20Dishes%20Searches%20Per%20Week.png
++ http://localhost:8892/lab/tree/Total%20Searches%20Per%20Foods%20Dishes%205%20Years.png
++ http://localhost:8801/lab/tree/Visualizations/Interest%20Over%20Time%20Miami%20.png
++ http://localhost:8801/lab/tree/Visualizations/Food%20Category%20Popularity%20in%20Miami%20-%20Pie.png
++ http://localhost:8801/lab/tree/Visualizations/Interest%20Over%20Time%20Orlando.png
++ http://localhost:8801/lab/tree/Visualizations/Food%20Catergory%20in%20Orlando.png
++ http://localhost:8801/lab/tree/Visualizations/Food%20Category%20Popularity%20in%20Tampa%20=%20Miami.png
++ http://localhost:8801/lab/tree/Visualizations/Interest%20Over%20Time%20Tampa.png
++ 
 
 
